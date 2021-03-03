@@ -518,7 +518,6 @@ logo img {
 
     logo {
         top: 50px;
-        left: 100px;
         right: initial;
         bottom: initial;
     }
@@ -527,7 +526,6 @@ logo img {
         background-image: url("../images/logo.png");
     }
 .logo img {
-    align-items: center;
     width: 250px;
 }
     .form-body.without-side .website-logo .logo {
