@@ -41,11 +41,6 @@
 logo {
     background-image: url("../images/logo.png");
 }
-
-.website-logo .logo img {
-    width: 100px;
-}
-
 .other-links span {
     color: #311F5C;
 }
@@ -58,18 +53,6 @@ logo {
     color: #989898;
 }
 
-.website-logo-inside img {
-    width: 100px;
-}
-
-logo {
-    margin-left: 80px;
-    background-image: url("../images/logo.png");
-}
-
-logo img {
-    width: 200px;
-}
 
 .img-holder {
     display: inline-block;
